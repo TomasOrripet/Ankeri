@@ -5,6 +5,6 @@ how to run:
 3. explore the urls
 
 
-Sorting can by done with the query http://127.0.0.1:5000?sortby=<what you want to sort by>
+Sorting can by done with the query http://127.0.0.1:5000?sortby="what_you_want_to_sort_by"
 then we have http://127.0.0.1:5000/shipsum for the sum for each ship
 and http://127.0.0.1:5000/shipaverage for the average values for each ship
