@@ -1,0 +1,15 @@
+
+Project for a candidate:
+
+Using the supplied shipdata.csv file
+
+    1. Read the data from the csv file and serve as JSON over HTTP
+    2. Using the data from the HTTP server
+        - display the data in a grid
+        - add the ability to sort the data by the imo, name or the time columns
+        - show aggregated values (sum and average) for the mainEngineConsumption DistanceOverGround and Speed values by ship/imo and time
+    3. Zip the code along with instructions on how to build and run the project
+
+You can solve this using the setup/language of your choosing
+You can spend as much time on this as you like but we are not expecting that is should take more than 2-3 hours
+There are no tricks in this project - we simply want to see your approach/solution
