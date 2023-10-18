@@ -1,5 +1,6 @@
 table {
     table-layout: responsive-sm;
+    text-align: center;
 }
 
 thead th {
@@ -14,4 +15,21 @@ td {
 
 .fixed-button-size {
     width: 100px !important
+}
+
+.top  {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-link {
+    border: 1px solid #000; /* Border around each link */
+    padding: 10px 20px; /* Adjust padding as needed */
 }
